@@ -75,7 +75,7 @@ Intel® AI for Future Workforce Program
 
 ## 8. References (참고자료)
 
-Official documentation of Python, TensorFlow, Keras, OpenCV
+- Official documentation of Python, TensorFlow, Keras, OpenCV
 
-Related academic papers and case studies in medical data analysis
+- Related academic papers and case studies in medical data analysis
 
