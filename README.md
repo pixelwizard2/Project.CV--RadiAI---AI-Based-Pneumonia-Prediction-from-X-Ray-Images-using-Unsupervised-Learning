@@ -21,21 +21,21 @@ The project implements key steps using Python and the following libraries:
 
 ​
 
-** (1) Data Collection:** X-ray images are segmented into training, validation, and test datasets.
+**(1) Data Collection:** X-ray images are segmented into training, validation, and test datasets.
 
 ​
 
-** (2) Data Visualization:** The shape of the images is examined, and matplotlib is used for visual representation.
+**(2) Data Visualization:** The shape of the images is examined, and matplotlib is used for visual representation.
 
-** (3) Data Preprocessing:** Data normalization and label encoding are performed using OpenCV.
-
-​
-
-** (4) Model Construction:** CNN models are built using TensorFlow and Keras, focusing on feature extraction and pattern recognition for pneumonia diagnosis.
+**(3) Data Preprocessing:** Data normalization and label encoding are performed using OpenCV.
 
 ​
 
-** (5) Training and Evaluation:** The created model is trained with the training dataset and evaluated using the validation dataset.
+**(4) Model Construction:** CNN models are built using TensorFlow and Keras, focusing on feature extraction and pattern recognition for pneumonia diagnosis.
+
+​
+
+**(5) Training and Evaluation:** The created model is trained with the training dataset and evaluated using the validation dataset.
 
 ​
 
