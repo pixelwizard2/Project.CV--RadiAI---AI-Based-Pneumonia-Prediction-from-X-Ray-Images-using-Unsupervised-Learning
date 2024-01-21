@@ -13,13 +13,10 @@ This project aims to develop a deep learning model that diagnoses and predicts p
 
 ​
 
-​
-
 ## 2. Technical Approach (기술적 접근법)
 
 The project implements key steps using Python and the following libraries:
 
-​
 
 **(1) Data Collection:** X-ray images are segmented into training, validation, and test datasets.
 
@@ -43,6 +40,8 @@ The project implements key steps using Python and the following libraries:
 ​![4](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/797fe782-4a20-4a5c-95e0-1f31607aa646)
 
 
+
+
 ## 3. Challenges and Achievements in the Project (도전과 성과)
 
 The biggest challenge in this project was securing high-quality data and effectively applying it to the model. Data augmentation and normalization techniques were utilized to enable the model to perform more precise predictions. The CNN model achieved considerable accuracy with the validation dataset.
@@ -50,13 +49,13 @@ The biggest challenge in this project was securing high-quality data and effecti
 ![5](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/e0e393ef-7d95-45c7-a619-645889acf21c)
 
 ​
-
 ## 4. Shortcomings in the Results (결과에서dml 아쉬운 점)
 
 Based on the provided results, the CNN model achieved relatively high accuracy with the validation dataset, but significant observations also emerged.
 
 **(*) Fluctuating Validation Loss:**
  **→** The validation loss (val_loss) was very high in the first and second epochs, indicating that the model was not well generalized to the validation dataset at those epochs.
+
 
 
 ## 5. Improvements and Reflections (개선사항 및 느낀점)
@@ -68,12 +67,13 @@ Based on the provided results, the CNN model achieved relatively high accuracy w
 ​![6](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/fe9b3f4f-b6b9-4a4c-9601-67b10fc4cff4)
 
 
+
+
 ## 6. Future Prospects and Goals (향후 전망 및 목표)
 
 This project has provided a foundation for basic research on the future direction of image colorization technology. Moving forward, more data and various network structures will be experimented with to improve the model's generalization capabilities.
 
 ​
-
 ## 7. Dataset Source (데이터셋 출처 자료)
 
 Intel® AI for Future Workforce Program
