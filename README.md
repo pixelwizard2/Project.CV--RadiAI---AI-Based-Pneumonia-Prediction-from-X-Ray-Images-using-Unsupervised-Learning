@@ -4,6 +4,7 @@ X-RAY 사진 판독 AI 진단 모델 - 인공지능을 활용한 비지도 학�
   <a href="https://blog.naver.com/pixelwizard/223301470065">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
+  
   ![x-ray](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/6a5407c3-54c9-465d-8523-4d39c2c8e482)
 ​
 
