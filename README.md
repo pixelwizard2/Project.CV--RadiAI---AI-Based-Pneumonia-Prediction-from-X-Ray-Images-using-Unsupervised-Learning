@@ -55,25 +55,25 @@ Based on the provided results, the CNN model achieved relatively high accuracy w
 
 ## 5. Improvements and Reflections (개선사항 및 느낀점)
 
-Improvement: There was a need for more diversity and quantity in the data, and future efforts will explore a wider range of data sources. Additionally, further hyperparameter tuning is necessary to enhance the model's generalization capability.
+- **Improvement:** There was a need for more diversity and quantity in the data, and future efforts will explore a wider range of data sources. Additionally, further hyperparameter tuning is necessary to enhance the model's generalization capability.
 
-Reflection: Witnessing the potential of artificial intelligence in medical image analysis, this research provided an opportunity to deeply consider how the fusion of technology and medicine can positively impact humanity. This research has laid the foundation for applications in high-resolution medical image restoration, real-time diagnostic systems, and medical data analysis tools. The advancements in AI technology are expected to enhance the accuracy of medical diagnoses and improve patients' quality of life.
+- **Reflection:** Witnessing the potential of artificial intelligence in medical image analysis, this research provided an opportunity to deeply consider how the fusion of technology and medicine can positively impact humanity. This research has laid the foundation for applications in high-resolution medical image restoration, real-time diagnostic systems, and medical data analysis tools. The advancements in AI technology are expected to enhance the accuracy of medical diagnoses and improve patients' quality of life.
 
 ​
 
-Future Prospects and Goals
+## 6. Future Prospects and Goals (향후 전망 및 목표)
 
 This project has provided a foundation for basic research on the future direction of image colorization technology. Moving forward, more data and various network structures will be experimented with to improve the model's generalization capabilities.
 
 ​
 
-Dataset Source
+## 7. Dataset Source (데이터셋 출처 자료)
 
 Intel® AI for Future Workforce Program
 
 ​
 
-References
+## 8. References (참고자료)
 
 Official documentation of Python, TensorFlow, Keras, OpenCV
 
