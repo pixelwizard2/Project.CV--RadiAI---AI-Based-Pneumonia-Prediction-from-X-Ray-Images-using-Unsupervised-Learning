@@ -41,25 +41,22 @@ The project implements key steps using Python and the following libraries:
 **(5) Training and Evaluation:** The created model is trained with the training dataset and evaluated using the validation dataset.
 
 ​![4](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/797fe782-4a20-4a5c-95e0-1f31607aa646)
-
-
-
+<br> br>
 
 ## 3. Challenges and Achievements in the Project (도전과 성과)
 
 The biggest challenge in this project was securing high-quality data and effectively applying it to the model. Data augmentation and normalization techniques were utilized to enable the model to perform more precise predictions. The CNN model achieved considerable accuracy with the validation dataset.
 
 ![5](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/e0e393ef-7d95-45c7-a619-645889acf21c)
+<br> br>
 
-​
 ## 4. Shortcomings in the Results (결과에서dml 아쉬운 점)
 
 Based on the provided results, the CNN model achieved relatively high accuracy with the validation dataset, but significant observations also emerged.
 
 **(*) Fluctuating Validation Loss:**
  **→** The validation loss (val_loss) was very high in the first and second epochs, indicating that the model was not well generalized to the validation dataset at those epochs.
-
-
+<br> br>
 
 ## 5. Improvements and Reflections (개선사항 및 느낀점)
 
@@ -68,21 +65,19 @@ Based on the provided results, the CNN model achieved relatively high accuracy w
 - **Reflection:** Witnessing the potential of artificial intelligence in medical image analysis, this research provided an opportunity to deeply consider how the fusion of technology and medicine can positively impact humanity. This research has laid the foundation for applications in high-resolution medical image restoration, real-time diagnostic systems, and medical data analysis tools. The advancements in AI technology are expected to enhance the accuracy of medical diagnoses and improve patients' quality of life.
 
 ​![6](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/fe9b3f4f-b6b9-4a4c-9601-67b10fc4cff4)
-
-
-
+<br> br>
 
 ## 6. Future Prospects and Goals (향후 전망 및 목표)
 
 This project has provided a foundation for basic research on the future direction of image colorization technology. Moving forward, more data and various network structures will be experimented with to improve the model's generalization capabilities.
+<br> br>
 
-​
 ## 7. Dataset Source (데이터셋 출처 자료)
 
 Intel® AI for Future Workforce Program
 
 ​![사진](https://github.com/pixelwizard2/Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning/assets/138272416/8e05f593-337e-48ae-aa5a-5076736a94c9)
-
+<br> br>
 
 ## 8. References (참고자료)
 
