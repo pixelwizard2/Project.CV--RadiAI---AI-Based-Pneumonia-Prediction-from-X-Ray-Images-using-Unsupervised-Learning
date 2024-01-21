@@ -1,5 +1,5 @@
 # Project.CV--RadiAI---AI-Based-Pneumonia-Prediction-from-X-Ray-Images-using-Unsupervised-Learning
-X-RAY 사진 판독 AI 진단 모델 - 인공지능을 활용한 비지도 학습 기반 폐렴 예측 (Deep Learning)
+_X-RAY 사진 판독 AI 진단 모델 - 인공지능을 활용한 비지도 학습 기반 폐렴 예측 (Deep Learning)_
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223301470065">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
